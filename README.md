@@ -46,3 +46,16 @@ The main method is in Solution.java file.
 	d. A chicken cannot fly (assumption: its wings are clipped but ignore that)
 		Encapsulated the behavior of chicken fly in NoFlyImpl class that implements the Fly interface.
 
+##### 3. Now how would you model a rooster?
+	Please find the implementation for this in the code.
+
+	a. A rooster says: “Cock-a-doodle-doo”
+		Encapsulated the behavior of Rooster sound in RoosterSoundImpl class that implements the Sing interface.
+
+	b. How is the rooster related to the chicken?
+		Rooster is also a kind of chicken that sings differently.
+
+	c. Can you think of other ways to model a rooster without using inheritance?
+		Yes. We can model  rooster by composition. A rooster object that contains a holds object.
+		Since we have programed to interfaces and encapsulated the frequently changing behaviors, we can 
+		assign the new behavior RoosterSoundImpl to sing behavior.

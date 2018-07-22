@@ -26,6 +26,14 @@ public class Solution {
 		chicken.walk();
 		chicken.fly();
 		chicken.sing();
+
+		System.out.println();
+		System.out.println("===========================================");
+		Rooster rooster = new Rooster();
+		rooster.description();
+		rooster.walk();
+		rooster.fly();
+		rooster.sing();
 	}
 
 }
