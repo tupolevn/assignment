@@ -101,6 +101,13 @@ public class Solution {
 		Dolphin dolphin = new Dolphin();
 		dolphin.description();
 		dolphin.swim();
+
+		System.out.println();
+		System.out.println("===========================================");
+		Butterfly butterfly = new Butterfly();
+		butterfly.description();
+		butterfly.fly();
+		butterfly.sing();
 	}
 
 }

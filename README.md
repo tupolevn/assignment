@@ -105,3 +105,13 @@ with dogs one in a house with cats, the other lived on a farm next to the rooste
 	b. How do you avoid duplicating code or introducing unneeded overhead?
 		Since behaviors are modeled separately, we can easily associate swim behavior to Dolphin
 		objects without duplicating code.
+
+# Answer - Question D
+
+### D. Model animals that change their behavior over time
+
+##### 1. Can you model a butterfly?
+	a. A butterfly can fly
+	b. A butterfly does not make a sound
+
+	Please find the implementation for this in the code.
