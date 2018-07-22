@@ -1,10 +1,9 @@
+# Answers
+
 **Personal information**
 Name: Nimshard Anfar
 Email: nimshard@gmail.com
 
-
-
-# Answers
 
 As mentioned in the assignment the complete answers were prepared within 1.5 hours for
 Question A, B, and D. (Question C is not available)
