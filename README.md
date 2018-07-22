@@ -59,3 +59,22 @@ The main method is in Solution.java file.
 		Yes. We can model  rooster by composition. A rooster object that contains a holds object.
 		Since we have programed to interfaces and encapsulated the frequently changing behaviors, we can 
 		assign the new behavior RoosterSoundImpl to sing behavior.
+
+##### 4.	Can you model a parrot? We are specifically interested in three parrots, one that lived in a house 
+with dogs one in a house with cats, the other lived on a farm next to the rooster.
+
+	Please find the implementation for this in the code.
+
+	a. A parrot living with dogs says: “Woof, woof”
+		Assigned  DogSoundImpl to sing behavior to parrot object. now we get a parrot that sounds like a dog.
+
+	b. A parrot living with cats says: “Meow”
+		Assigned CatSoundImpl to sing behavior to parrot object. now we get a parrot that sounds like a cat.
+
+	c. A parrot living near the rooster says: “Cock-a-doodle-doo”
+		Assigned CatSoundImpl to sing behavior to parrot object. now we get a parrot that sounds like a Rooster.
+
+	d. How do you keep the parrot maintainable? What if we need another parrot
+		lives near a Duck? Or near a phone that rings frequently?
+		We can add any number of behaviors to for parrot to sound like other animals. 
+		All we have to do is implement new behaviors using sing interface and assign them to parrot objects.
