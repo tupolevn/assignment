@@ -72,6 +72,13 @@ public class Solution {
 		parrotWithRooster.walk();
 		parrotWithRooster.fly();
 		parrotWithRooster.sing();
+
+		System.out.println();
+		System.out.println("===========================================");
+
+		Fish fish = new Fish();
+		fish.description();
+		fish.swim();
 	}
 
 }

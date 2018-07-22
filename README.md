@@ -78,3 +78,14 @@ with dogs one in a house with cats, the other lived on a farm next to the rooste
 		lives near a Duck? Or near a phone that rings frequently?
 		We can add any number of behaviors to for parrot to sound like other animals. 
 		All we have to do is implement new behaviors using sing interface and assign them to parrot objects.
+
+# Answer - Question B
+
+### B. Model fish as well as other swimming animals
+
+##### 1. In addition to the birds, can you model a fish?
+	a. Fishes don’t sing
+	b. Fishes don’t walk
+	c. Fishes can swim
+
+	Please find the implementation for this in the code.
