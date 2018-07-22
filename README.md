@@ -89,3 +89,11 @@ with dogs one in a house with cats, the other lived on a farm next to the rooste
 	c. Fishes can swim
 
 	Please find the implementation for this in the code.
+
+##### 2. Can you specialize the fish as a Shark and as a Clownfish?
+	a. Sharks are large and grey
+	b. Clownfish are small and colourful (orange)
+	c. Clownfish make jokes
+	d. Sharks eat other fish
+
+	Please find the implementation for this in the code.

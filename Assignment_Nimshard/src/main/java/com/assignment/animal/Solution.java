@@ -79,6 +79,22 @@ public class Solution {
 		Fish fish = new Fish();
 		fish.description();
 		fish.swim();
+
+		System.out.println();
+		System.out.println("===========================================");
+
+		Shark shark = new Shark();
+		shark.description();
+		shark.swim();
+		shark.eat();
+
+		System.out.println();
+		System.out.println("===========================================");
+
+		Clownfish clownfish = new Clownfish();
+		clownfish.description();
+		clownfish.swim();
+		clownfish.makeJoke();
 	}
 
 }
