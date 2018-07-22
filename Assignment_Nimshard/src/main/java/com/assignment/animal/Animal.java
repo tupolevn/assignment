@@ -8,6 +8,10 @@ public abstract class Animal {
 		animalDescription = description;
 	}
 	
+	public String getAnimalDescription() {
+		return animalDescription;
+	}
+
 	public void description(){
 		System.out.println(animalDescription);
 	}
