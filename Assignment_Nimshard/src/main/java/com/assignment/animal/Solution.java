@@ -95,6 +95,12 @@ public class Solution {
 		clownfish.description();
 		clownfish.swim();
 		clownfish.makeJoke();
+
+		System.out.println();
+		System.out.println("===========================================");
+		Dolphin dolphin = new Dolphin();
+		dolphin.description();
+		dolphin.swim();
 	}
 
 }

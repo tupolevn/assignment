@@ -97,3 +97,11 @@ with dogs one in a house with cats, the other lived on a farm next to the rooste
 	d. Sharks eat other fish
 
 	Please find the implementation for this in the code.
+
+##### 3. Dolphins are not exactly fish, yet, they are good swimmers
+	a. Can you model a dolphin that swims without inheriting from a fish class?
+		Please find the implementation for this in the code.
+
+	b. How do you avoid duplicating code or introducing unneeded overhead?
+		Since behaviors are modeled separately, we can easily associate swim behavior to Dolphin
+		objects without duplicating code.
