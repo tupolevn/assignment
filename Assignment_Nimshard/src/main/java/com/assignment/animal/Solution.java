@@ -108,6 +108,13 @@ public class Solution {
 		butterfly.description();
 		butterfly.fly();
 		butterfly.sing();
+
+		System.out.println();
+		System.out.println("===========================================");
+		butterfly.growUp();
+		butterfly.description();
+		butterfly.fly();
+		butterfly.sing();
 	}
 
 }

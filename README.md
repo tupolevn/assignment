@@ -115,3 +115,13 @@ with dogs one in a house with cats, the other lived on a farm next to the rooste
 	b. A butterfly does not make a sound
 
 	Please find the implementation for this in the code.
+
+##### 2. Can you optimize your model to account for the metamorphosis from caterpillar to
+butterfly?
+	a. A caterpillar cannot fly
+	b. A caterpillar can walk (crawl)
+
+	Yes. This is behavior change at run time, a form of polymorphism.
+    Walk, Fly and Sing behaviors associated to a Butterfly. The relevant behaviors for a caterpillar
+	is assigned to the butterfly object by pushing objects that implement the respective interfaces.
+	When me call growUp() method, it will assign the respective behaviors for butterfly.
