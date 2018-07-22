@@ -9,13 +9,14 @@ Email: nimshard@gmail.com
 As mentioned in the assignment the complete answers were prepared within 1.5 hours for
 Question A, B, and D. (Question C is not available)
 
-** BONUS questions **
+**BONUS questions**
 The answers for the BONUS questions are prepared by taking extra time.
 this answers can be utilized to further evaluation of the skills need by
 the interviewer if needed.
 
 BONUS questions 2 is a SpringBoot application.
-Main method is in,* com.assignment.rest.api.SpringBootMain*
+Main method is in,
+*com.assignment.rest.api.SpringBootMain*
 
 
 # Building and Running the project
